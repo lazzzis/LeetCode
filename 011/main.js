@@ -1,4 +1,11 @@
 /**
+ * For a specific height, we try hard to find a max length.
+ * Obviously, the closer to the edge the head and tail are, the longer the length is.
+ * Hence, we triverse from the first element and last one.
+ * Compared with the last height and the right one, take the shorter one into record, since for this
+ * specific height value, the current length may be the longest.
+ * E.g. if the left height is 6 and the right height is 4. Assume the distance between them is 3.
+ * Therefore, for height value 4, the longest length is 4. Then we move the right pivot one unit to the left.
  * @param {number[]} height
  * @return {number}
  */
