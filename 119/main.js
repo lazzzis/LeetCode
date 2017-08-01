@@ -5,20 +5,16 @@
 var getRow = function (rowIndex) {
   if (rowIndex === 0) {
     return [1]
-  } else if (rowIndex === 1) {
-    return [1, 1]
   }
-  let arr = [1, 1]
-  for (let i = 2; i <= rowIndex; i++) {
-    let prev = arr[0]
-    for (let j = 1; j <= i - 1; j++) {
-      let ori = arr[j]
-      arr[j] = prev + arr[j]
-      prev = ori
+  let ans = Array.from({ length: rowIndex + 1 }, () => 0)
+  ans[0] = 1
+  for (let i = 1; i <= rowIndex; i++) {
+    let len = i + 1
+    for (let j = len - 1; j >= 1; j--) {
+      ans[j] = ans[j] + ans[j - 1]
     }
-    arr.push(1)
   }
-  return arr
+  return ans
 }
 
 console.log(getRow(2))
