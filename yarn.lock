@@ -4,4 +4,4 @@
 
 chance@^1.0.10:
   version "1.0.10"
-  resolved "http://registry.npm.taobao.org/chance/download/chance-1.0.10.tgz#03500b04ad94e778dd2891b09ec73a6ad87b1996"
+  resolved "https://registry.yarnpkg.com/chance/-/chance-1.0.10.tgz#03500b04ad94e778dd2891b09ec73a6ad87b1996"
