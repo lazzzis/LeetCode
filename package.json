@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "chance": "^1.0.10"
+  },
+  "dependencies": {
+    "chai": "^4.1.1"
   }
 }
