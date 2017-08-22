@@ -5,8 +5,6 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        if s == '':
-            return False
         pairs = {
             ')': '(',
             '}': '{',
