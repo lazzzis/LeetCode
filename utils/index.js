@@ -9,6 +9,33 @@ function randIntArr (length, limit) {
   return arr
 }
 
+function ListNode (val) {
+  this.val = val
+  this.next = null
+}
+
+function arrToList (arr) {
+  const dummy = new ListNode(-1)
+  let cur = dummy
+  for (let item of arr) {
+    cur.next = new ListNode(item)
+    cur = cur.next
+  }
+  return dummy.next
+}
+
+function listToArr (head) {
+  let cur = head
+  const arr = []
+  while (cur) {
+    arr.push(cur.val)
+    cur = cur.next
+  }
+  return arr
+}
+
 module.exports = {
-  randIntArr
+  randIntArr,
+  arrToList,
+  listToArr
 }
