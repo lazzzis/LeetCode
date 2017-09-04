@@ -7,7 +7,7 @@ class Solution(object):
         left, right = 0, len(height) - 1
         lmax, rmax = -1, -1
         res = 0
-        while left > right:
+        while left < right:
             lv, rv = height[left], height[right]
             lmax, rmax = max(lmax, lv), max(rmax, rv)
             if lmax < rmax:
