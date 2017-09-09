@@ -26,3 +26,9 @@ var groupAnagrams = function (strs) {
   })
   return Object.values(maps)
 }
+
+/*
+  For each char in string, we can compute the multiplication for one prime corresponding to the character. Since there are totally 26 characters (all lower case), there are only 26 primes we need. In such way, only anagrams become the same number.
+
+  http://yucoding.blogspot.com/2016/12/leetcode-question-group-anagrams.html
+ */
