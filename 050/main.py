@@ -21,3 +21,11 @@ print(s.myPow(10, 3))
 print(s.myPow(2, 7))
 print(s.myPow(34.00515, -3))
 print(s.myPow(-34.00515, -3))
+
+"""
+The key is that x ^ n can decomposed into several parts: for example, x ^ 7 =
+(x ^ 4) * (x ^ 2) * (x ^ 1) where each part actually corresponds to one BIT in the binary
+representation of n. So this motivates this solution.
+
+https://www.sigmainfy.com/blog/leetcode-powx-n.html
+"""
