@@ -1,4 +1,4 @@
-Basically, you have to find the max difference between $a_i$ and $a_j$ where i is less then j. We can maintain two variables minprice and maxprofit, corresponding to the min price obtained so far and maxprofit obtained so far.
+Basically, you have to find the max difference between ![a_i](http://latex.codecogs.com/gif.latex?a_i) and ![a_j](http://latex.codecogs.com/gif.latex?a_j) where i is less then j. We can maintain two variables minprice and maxprofit, corresponding to the min price obtained so far and maxprofit obtained so far.
 
 [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/)
 
