@@ -53,6 +53,7 @@
 - [063 Unique Paths II](./063)
 - [064 Minimum Path Sum](./064)
 - [066 Plus One](./066)
+- [069 Sqrt(x)](./069)
 - [070 Climbing Stairs](./070)
 - [073 Set Matrix Zeroes](./073)
 - [074 Search a 2D Matrix](./074)
