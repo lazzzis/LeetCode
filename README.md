@@ -47,6 +47,7 @@
 - [062 Unique Paths](./062)
 - [063 Unique Paths II](./063)
 - [066 Plus One](./066)
+- [074 Search a 2D Matrix](./074)
 - [088 Merge Sorted Array](./088)
 - [092 Reverse Linked List II](./092)
 - [119 Pascal's Triangle II](./119)
