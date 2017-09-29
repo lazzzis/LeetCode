@@ -1,6 +1,7 @@
 - [001 Two Sum](./001)
 - [002 Add Two Numbers](./002)
 - [003 Longest Substring Without Repeating Characters](./003)
+- [005 Longest Palindromic Substring](./005)
 - [006 ZigZag Conversion](./006)
 - [007 Reverse Integer](./007)
 - [009 Palindrome Number](./009)
