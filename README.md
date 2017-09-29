@@ -48,6 +48,7 @@
 - [056 Merge Intervals](./056)
 - [057 Insert Interval](./057)
 - [060 Permutation Sequence](./060)
+- [061 Rotate List](./061)
 - [062 Unique Paths](./062)
 - [063 Unique Paths II](./063)
 - [064 Minimum Path Sum](./064)
