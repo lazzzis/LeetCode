@@ -1,4 +1,3 @@
-// http://www.cnblogs.com/lanxuezaipiao/p/3452579.html
 #include <iostream>
 #include <cstring>
 #include <cstdlib>

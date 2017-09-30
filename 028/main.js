@@ -1,3 +1,4 @@
+// http://www.cnblogs.com/lanxuezaipiao/p/3452579.html
 /**
  * @param {string} haystack
  * @param {string} needle
