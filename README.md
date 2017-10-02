@@ -59,6 +59,7 @@
 - [072 Edit Distance](./072)
 - [073 Set Matrix Zeroes](./073)
 - [074 Search a 2D Matrix](./074)
+- [075 Sort Colors](./075)
 - [076 Minimum Window Substring](./076)
 - [088 Merge Sorted Array](./088)
 - [092 Reverse Linked List II](./092)
