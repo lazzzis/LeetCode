@@ -62,6 +62,7 @@
 - [075 Sort Colors](./075)
 - [076 Minimum Window Substring](./076)
 - [084 Largest Rectangle in Histogram](./084)
+- [085 Maximal Rectangle](./085)
 - [088 Merge Sorted Array](./088)
 - [092 Reverse Linked List II](./092)
 - [119 Pascal's Triangle II](./119)
