@@ -66,6 +66,7 @@
 - [083 Remove Duplicates from Sorted List](./083)
 - [084 Largest Rectangle in Histogram](./084)
 - [085 Maximal Rectangle](./085)
+- [086 Partition List](./086)
 - [088 Merge Sorted Array](./088)
 - [090 Subsets II](./090)
 - [092 Reverse Linked List II](./092)
