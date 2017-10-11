@@ -62,6 +62,7 @@
 - [075 Sort Colors](./075)
 - [076 Minimum Window Substring](./076)
 - [078 Subsets](./078)
+- [082 Remove Duplicates from Sorted List II](./082)
 - [083 Remove Duplicates from Sorted List](./083)
 - [084 Largest Rectangle in Histogram](./084)
 - [085 Maximal Rectangle](./085)
