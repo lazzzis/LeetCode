@@ -61,6 +61,7 @@
 - [074 Search a 2D Matrix](./074)
 - [075 Sort Colors](./075)
 - [076 Minimum Window Substring](./076)
+- [083 Remove Duplicates from Sorted List](./083)
 - [084 Largest Rectangle in Histogram](./084)
 - [085 Maximal Rectangle](./085)
 - [088 Merge Sorted Array](./088)
