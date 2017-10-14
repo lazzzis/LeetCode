@@ -62,6 +62,7 @@
 - [075 Sort Colors](./075)
 - [076 Minimum Window Substring](./076)
 - [078 Subsets](./078)
+- [079 Word Search](./079)
 - [081 Search in Rotated Sorted Array II](./081)
 - [082 Remove Duplicates from Sorted List II](./082)
 - [083 Remove Duplicates from Sorted List](./083)
