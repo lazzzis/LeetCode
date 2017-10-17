@@ -56,6 +56,7 @@
 - [066 Plus One](./066)
 - [069 Sqrt(x)](./069)
 - [070 Climbing Stairs](./070)
+- [071 Simplify Path](./071)
 - [072 Edit Distance](./072)
 - [073 Set Matrix Zeroes](./073)
 - [074 Search a 2D Matrix](./074)
