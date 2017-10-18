@@ -44,6 +44,7 @@
 - [051 N-Queens](./051)
 - [052 N-Queens II](./052)
 - [053 Maximum Subarray](./053)
+- [054 Spiral Matrix](./054)
 - [055 Jump Game](./055)
 - [056 Merge Intervals](./056)
 - [057 Insert Interval](./057)
