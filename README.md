@@ -80,6 +80,7 @@
 - [092 Reverse Linked List II](./092)
 - [119 Pascal's Triangle II](./119)
 - [121 Best Time to Buy and Sell Stock](./121)
+- [144 Binary Tree Preorder Traversal](./144)
 - [152 Maximum Product Subarray](./152)
 - [094 Binary Tree Inorder Traversal](./094)
 - [167 Two Sum II - Input array is sorted](./167)
