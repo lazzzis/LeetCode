@@ -78,6 +78,7 @@
 - [088 Merge Sorted Array](./088)
 - [090 Subsets II](./090)
 - [092 Reverse Linked List II](./092)
+- [096 Unique Binary Search Trees](./096)
 - [119 Pascal's Triangle II](./119)
 - [121 Best Time to Buy and Sell Stock](./121)
 - [144 Binary Tree Preorder Traversal](./144)
