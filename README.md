@@ -93,6 +93,7 @@
 - [209 Minimum Size Subarray Sum](./209)
 - [217 Contains Duplicate](./217)
 - [219 Contains Duplicate II](./219)
+- [292 Nim Game](./292)
 - [414 Third Maximum Number](./414)
 - [442 Find All Duplicates in an Array](./442)
 - [448 Find All Numbers Disappeared in an Array](./448)
