@@ -90,6 +90,7 @@
 - [169 Majority Element](./169)
 - [189 Rotate Array](./189)
 - [206 Reverse Linked List](./206)
+- [207 Course Schedule](./207)
 - [209 Minimum Size Subarray Sum](./209)
 - [217 Contains Duplicate](./217)
 - [219 Contains Duplicate II](./219)
