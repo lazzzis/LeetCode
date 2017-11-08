@@ -96,6 +96,7 @@
 - [219 Contains Duplicate II](./219)
 - [238 Product of Array Except Self](./238)
 - [292 Nim Game](./292)
+- [312 Burst Balloons](./312)
 - [414 Third Maximum Number](./414)
 - [442 Find All Duplicates in an Array](./442)
 - [448 Find All Numbers Disappeared in an Array](./448)
