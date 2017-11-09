@@ -86,6 +86,7 @@
 - [136 Single Number](./136)
 - [144 Binary Tree Preorder Traversal](./144)
 - [145 Binary Tree Postorder Traversal](./145)
+- [146 LRU Cache](,.146)
 - [152 Maximum Product Subarray](./152)
 - [167 Two Sum II - Input array is sorted](./167)
 - [169 Majority Element](./169)
