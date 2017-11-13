@@ -80,6 +80,7 @@
 - [092 Reverse Linked List II](./092)
 - [094 Binary Tree Inorder Traversal](./094)
 - [096 Unique Binary Search Trees](./096)
+- [098 Validate Binary Search Tree](./098)
 - [102 Binary Tree Level Order Traversal](./102)
 - [119 Pascal's Triangle II](./119)
 - [121 Best Time to Buy and Sell Stock](./121)
