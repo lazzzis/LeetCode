@@ -78,6 +78,7 @@
 - [088 Merge Sorted Array](./088)
 - [090 Subsets II](./090)
 - [092 Reverse Linked List II](./092)
+- [093 Restore IP Addresses](./093)
 - [094 Binary Tree Inorder Traversal](./094)
 - [096 Unique Binary Search Trees](./096)
 - [098 Validate Binary Search Tree](./098)
