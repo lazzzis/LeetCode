@@ -104,6 +104,7 @@
 - [238 Product of Array Except Self](./238)
 - [283 Move Zeroes](./283)
 - [292 Nim Game](./292)
+- [301 Remove Invalid Parentheses](./301)
 - [312 Burst Balloons](./312)
 - [337 House Robber III](./337)
 - [414 Third Maximum Number](./414)
