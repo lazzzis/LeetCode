@@ -56,6 +56,7 @@
 - [064 Minimum Path Sum](./064)
 - [065 Valid Number](./065)
 - [066 Plus One](./066)
+- [067 Add Binary](./067)
 - [069 Sqrt(x)](./069)
 - [070 Climbing Stairs](./070)
 - [071 Simplify Path](./071)
