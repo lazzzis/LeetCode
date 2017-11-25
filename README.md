@@ -78,6 +78,7 @@
 - [087 Scramble String](./087)
 - [088 Merge Sorted Array](./088)
 - [090 Subsets II](./090)
+- [091 Decode Ways](./091)
 - [092 Reverse Linked List II](./092)
 - [093 Restore IP Addresses](./093)
 - [094 Binary Tree Inorder Traversal](./094)
