@@ -107,6 +107,7 @@
 - [270 Closest Binary Search Tree Value](./270)
 - [283 Move Zeroes](./283)
 - [292 Nim Game](./292)
+- [297 Serialize and Deserialize Binary Tree](./297)
 - [301 Remove Invalid Parentheses](./301)
 - [312 Burst Balloons](./312)
 - [337 House Robber III](./337)
