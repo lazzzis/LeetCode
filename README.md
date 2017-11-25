@@ -126,6 +126,7 @@
 - [681 Next Closest Time](./681)
 - [682 Baseball Game](./682)
 - [684 Redundant Connection](./684)
+- [689 Maximum Sum of 3 Non-Overlapping Subarrays](./689)
 
 *Q: What is `LZS`? It almost appears inside all files (like js, cpp)?*
 A: Briefly speaking, that is an environment variable defined in my System. For unix/linux, you can add a command `export LZS='true'` in `~/.bashrc` such that `process.env.LZS` evaluates to `true` rather than `undefined.`
