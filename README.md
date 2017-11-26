@@ -105,6 +105,7 @@
 - [217 Contains Duplicate](./217)
 - [219 Contains Duplicate II](./219)
 - [238 Product of Array Except Self](./238)
+- [257 Binary Tree Paths](./257)
 - [270 Closest Binary Search Tree Value](./270)
 - [278 First Bad Version](./278)
 - [283 Move Zeroes](./283)
