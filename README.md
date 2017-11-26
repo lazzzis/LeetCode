@@ -105,6 +105,7 @@
 - [219 Contains Duplicate II](./219)
 - [238 Product of Array Except Self](./238)
 - [270 Closest Binary Search Tree Value](./270)
+- [278 First Bad Version](./278)
 - [283 Move Zeroes](./283)
 - [292 Nim Game](./292)
 - [297 Serialize and Deserialize Binary Tree](./297)
