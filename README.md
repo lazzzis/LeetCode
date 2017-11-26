@@ -96,6 +96,7 @@
 - [169 Majority Element](./169)
 - [189 Rotate Array](./189)
 - [198 House Robber](./198)
+- [200 Number of Islands](./200)
 - [206 Reverse Linked List](./206)
 - [207 Course Schedule](./207)
 - [209 Minimum Size Subarray Sum](./209)
