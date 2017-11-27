@@ -87,6 +87,7 @@
 - [102 Binary Tree Level Order Traversal](./102)
 - [119 Pascal's Triangle II](./119)
 - [121 Best Time to Buy and Sell Stock](./121)
+- [125 Valid Palindrome](./125)
 - [136 Single Number](./136)
 - [144 Binary Tree Preorder Traversal](./144)
 - [145 Binary Tree Postorder Traversal](./145)
