@@ -35,6 +35,7 @@
 - [041 First Missing Positive](./041)
 - [042 Trapping Rain Water](./042)
 - [043 Multiply Strings](./043)
+- [044 Wildcard Matching](./044)
 - [045 Jump Game II](./045)
 - [046 Permutations](./046)
 - [047 Permutations II](./047)
