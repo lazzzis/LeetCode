@@ -120,6 +120,7 @@
 - [301 Remove Invalid Parentheses](./301)
 - [312 Burst Balloons](./312)
 - [337 House Robber III](./337)
+- [347 Top K Frequent Elements](./347)
 - [414 Third Maximum Number](./414)
 - [442 Find All Duplicates in an Array](./442)
 - [448 Find All Numbers Disappeared in an Array](./448)
