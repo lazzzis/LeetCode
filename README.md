@@ -136,6 +136,7 @@
 - [581 Shortest Unsorted Continuous Subarray](./581)
 - [621 Task Scheduler](./621)
 - [628 Maximum Product of Three Numbers](./628)
+- [643 Maximum Average Subarray I](./643)
 - [670 Maximum Swap](./670)
 - [675 Cut Off Trees for Golf Event](./675)
 - [681 Next Closest Time](./681)
