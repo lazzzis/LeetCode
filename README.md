@@ -125,6 +125,7 @@
 - [301 Remove Invalid Parentheses](./301)
 - [312 Burst Balloons](./312)
 - [337 House Robber III](./337)
+- [341 Flatten Nested List Iterator](./341)
 - [349 Intersection of Two Arrays](./349)
 - [398 Random Pick Index](./398)
 - [347 Top K Frequent Elements](./347)
