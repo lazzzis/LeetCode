@@ -119,6 +119,7 @@
 - [278 First Bad Version](./278)
 - [282 Expression Add Operators](./282)
 - [283 Move Zeroes](./283)
+- [290 Word Pattern](./290)
 - [292 Nim Game](./292)
 - [297 Serialize and Deserialize Binary Tree](./297)
 - [301 Remove Invalid Parentheses](./301)
