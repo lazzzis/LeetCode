@@ -87,6 +87,7 @@
 - [098 Validate Binary Search Tree](./098)
 - [102 Binary Tree Level Order Traversal](./102)
 - [112 Path Sum](./112)
+- [114 Flatten Binary Tree to Linked List](./114)
 - [119 Pascal's Triangle II](./119)
 - [121 Best Time to Buy and Sell Stock](./121)
 - [122 Best Time to Buy and Sell Stock II](./122)
