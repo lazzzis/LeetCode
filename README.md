@@ -130,6 +130,7 @@
 - [337 House Robber III](./337)
 - [341 Flatten Nested List Iterator](./341)
 - [349 Intersection of Two Arrays](./349)
+- [350 Intersection of Two Arrays II](./350)
 - [398 Random Pick Index](./398)
 - [347 Top K Frequent Elements](./347)
 - [414 Third Maximum Number](./414)
