@@ -135,6 +135,7 @@
 - [398 Random Pick Index](./398)
 - [347 Top K Frequent Elements](./347)
 - [414 Third Maximum Number](./414)
+- [415 Add Strings](./415)
 - [442 Find All Duplicates in an Array](./442)
 - [448 Find All Numbers Disappeared in an Array](./448)
 - [495 Teemo Attacking](./495)
