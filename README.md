@@ -160,6 +160,7 @@
 - [689 Maximum Sum of 3 Non-Overlapping Subarrays](./689)
 - [714 Best Time to Buy and Sell Stock with Transaction Fee](./714)
 - [738 Monotone Increasing Digits](./738)
+- [739 Daily Temperatures](./739)
 
 *Q: What is `LZS`? It almost appears inside all files (like js, cpp)?*
 A: Briefly speaking, that is an environment variable defined in my System. For unix/linux, you can add a command `export LZS='true'` in `~/.bashrc` such that `process.env.LZS` evaluates to `true` rather than `undefined.`
