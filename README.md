@@ -142,6 +142,7 @@
 - [448 Find All Numbers Disappeared in an Array](./448)
 - [477 Total Hamming Distance](./477)
 - [495 Teemo Attacking](./495)
+- [525 Contiguous Array](./525)
 - [532 K-diff Pairs in an Array](./532)
 - [543 Diameter of Binary Tree](./543)
 - [547 Friend Circles](./547)
