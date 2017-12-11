@@ -154,6 +154,7 @@
 - [621 Task Scheduler](./621)
 - [628 Maximum Product of Three Numbers](./628)
 - [643 Maximum Average Subarray I](./643)
+- [654 Maximum Binary Tree](./654)
 - [658 Find K Closest Elements](./658)
 - [670 Maximum Swap](./670)
 - [675 Cut Off Trees for Golf Event](./675)
