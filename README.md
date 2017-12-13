@@ -113,6 +113,7 @@
 - [207 Course Schedule](./207)
 - [209 Minimum Size Subarray Sum](./209)
 - [210 Course Schedule II](./210)
+- [211 Add and Search Word - Data structure design](./211)
 - [213 House Robber II](./213)
 - [217 Contains Duplicate](./217)
 - [219 Contains Duplicate II](./219)
