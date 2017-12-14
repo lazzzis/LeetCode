@@ -148,6 +148,7 @@
 - [414 Third Maximum Number](./414)
 - [415 Add Strings](./415)
 - [442 Find All Duplicates in an Array](./442)
+- [443 String Compression](./443)
 - [448 Find All Numbers Disappeared in an Array](./448)
 - [477 Total Hamming Distance](./477)
 - [495 Teemo Attacking](./495)
