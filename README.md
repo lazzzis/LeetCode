@@ -132,6 +132,7 @@
 - [283 Move Zeroes](./283)
 - [290 Word Pattern](./290)
 - [292 Nim Game](./292)
+- [295 Find Median from Data Stream](./295)
 - [297 Serialize and Deserialize Binary Tree](./297)
 - [301 Remove Invalid Parentheses](./301)
 - [304 Range Sum Query 2D - Immutable](./304)
