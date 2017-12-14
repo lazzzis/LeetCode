@@ -103,6 +103,7 @@
 - [146 LRU Cache](,.146)
 - [151 Reverse Words in a String](./151)
 - [152 Maximum Product Subarray](./152)
+- [153 Find Minimum in Rotated Sorted Array](./153)
 - [155 Min Stack](./155)
 - [167 Two Sum II - Input array is sorted](./167)
 - [169 Majority Element](./169)
