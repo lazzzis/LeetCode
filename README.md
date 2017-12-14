@@ -157,6 +157,7 @@
 - [448 Find All Numbers Disappeared in an Array](./448)
 - [477 Total Hamming Distance](./477)
 - [495 Teemo Attacking](./495)
+- [498 Diagonal Traverse](./498)
 - [523 Continuous Subarray Sum](./523)
 - [525 Contiguous Array](./525)
 - [532 K-diff Pairs in an Array](./532)
