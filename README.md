@@ -130,6 +130,7 @@
 - [292 Nim Game](./292)
 - [297 Serialize and Deserialize Binary Tree](./297)
 - [301 Remove Invalid Parentheses](./301)
+- [304 Range Sum Query 2D - Immutable](./304)
 - [312 Burst Balloons](./312)
 - [332 Reconstruct Itinerary](./332)
 - [334 Increasing Triplet Subsequence](./334)
