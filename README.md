@@ -161,6 +161,7 @@
 - [561 Array Partition I](./561)
 - [565](./565)
 - [566 Reshape the Matrix](./566)
+- [567 Permutation in String](./567)
 - [581 Shortest Unsorted Continuous Subarray](./581)
 - [621 Task Scheduler](./621)
 - [628 Maximum Product of Three Numbers](./628)
