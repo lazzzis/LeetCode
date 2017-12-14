@@ -131,6 +131,7 @@
 - [297 Serialize and Deserialize Binary Tree](./297)
 - [301 Remove Invalid Parentheses](./301)
 - [312 Burst Balloons](./312)
+- [332 Reconstruct Itinerary](./332)
 - [334 Increasing Triplet Subsequence](./334)
 - [337 House Robber III](./337)
 - [341 Flatten Nested List Iterator](./341)
