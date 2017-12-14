@@ -136,6 +136,7 @@
 - [292 Nim Game](./292)
 - [295 Find Median from Data Stream](./295)
 - [297 Serialize and Deserialize Binary Tree](./297)
+- [300 Longest Increasing Subsequence](./300)
 - [301 Remove Invalid Parentheses](./301)
 - [304 Range Sum Query 2D - Immutable](./304)
 - [312 Burst Balloons](./312)
