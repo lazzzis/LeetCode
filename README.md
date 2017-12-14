@@ -155,6 +155,7 @@
 - [442 Find All Duplicates in an Array](./442)
 - [443 String Compression](./443)
 - [448 Find All Numbers Disappeared in an Array](./448)
+- [463 Island Perimeter](./463)
 - [477 Total Hamming Distance](./477)
 - [495 Teemo Attacking](./495)
 - [498 Diagonal Traverse](./498)
