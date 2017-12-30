@@ -113,6 +113,7 @@
 - [198 House Robber](./198)
 - [199 Binary Tree Right Side View](./199)
 - [200 Number of Islands](./200)
+- [204 Count Primes](./204)
 - [206 Reverse Linked List](./206)
 - [207 Course Schedule](./207)
 - [208 Implement Trie (Prefix Tree)](./208)
