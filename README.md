@@ -151,6 +151,7 @@
 - [349 Intersection of Two Arrays](./349)
 - [350 Intersection of Two Arrays II](./350)
 - [377 Combination Sum IV](./377)
+- [387 First Unique Character in a String](./387)
 - [393 UTF-8 Validation](./393)
 - [398 Random Pick Index](./398)
 - [414 Third Maximum Number](./414)
