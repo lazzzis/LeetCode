@@ -49,6 +49,7 @@
 - [055 Jump Game](./055)
 - [056 Merge Intervals](./056)
 - [057 Insert Interval](./057)
+- [058 Length of Last Word](./058)
 - [059 Spiral Matrix II](./059)
 - [060 Permutation Sequence](./060)
 - [061 Rotate List](./061)
