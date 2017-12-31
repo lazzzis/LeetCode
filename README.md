@@ -192,6 +192,7 @@
 - [684 Redundant Connection](./684)
 - [689 Maximum Sum of 3 Non-Overlapping Subarrays](./689)
 - [714 Best Time to Buy and Sell Stock with Transaction Fee](./714)
+- [724 Find Pivot Index](./724)
 - [728 Self Dividing Numbers](./728)
 - [734 Sentence Similarity](./734)
 - [735 Asteroid Collision](./735)
