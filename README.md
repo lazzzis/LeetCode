@@ -198,6 +198,7 @@
 - [738 Monotone Increasing Digits](./738)
 - [739 Daily Temperatures](./739)
 - [740 Delete and Earn](./740)
+- [747 Min Cost Climbing Stairs](./747)
 - [748 Largest Number At Least Twice of Others](./748)
 
 *Q: What is `LZS`? It almost appears inside all files (like js, cpp)?*
