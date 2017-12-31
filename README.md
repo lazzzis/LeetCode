@@ -125,6 +125,7 @@
 - [219 Contains Duplicate II](./219)
 - [224 Basic Calculator](./224)
 - [227 Basic Calculator II](./227)
+- [231 Power of Two](./231)
 - [236 Lowest Common Ancestor of a Binary Tree](./236)
 - [237 Delete Node in a Linked List](./237)
 - [238 Product of Array Except Self](./238)
