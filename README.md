@@ -131,6 +131,7 @@
 - [238 Product of Array Except Self](./238)
 - [257 Binary Tree Paths](./257)
 - [258 Add Digits](./258)
+- [263 Ugly Number](./263)
 - [268 Missing Number](./268)
 - [270 Closest Binary Search Tree Value](./270)
 - [273 Integer to English Words](./273)
