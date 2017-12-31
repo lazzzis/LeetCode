@@ -198,6 +198,7 @@
 - [738 Monotone Increasing Digits](./738)
 - [739 Daily Temperatures](./739)
 - [740 Delete and Earn](./740)
+- [745 Find Smallest Letter Greater Than Target](./745)
 - [747 Min Cost Climbing Stairs](./747)
 - [748 Largest Number At Least Twice of Others](./748)
 
