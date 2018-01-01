@@ -150,6 +150,7 @@
 - [334 Increasing Triplet Subsequence](./334)
 - [337 House Robber III](./337)
 - [341 Flatten Nested List Iterator](./341)
+- [344 Reverse String](./344)
 - [347 Top K Frequent Elements](./347)
 - [349 Intersection of Two Arrays](./349)
 - [350 Intersection of Two Arrays II](./350)
@@ -204,6 +205,7 @@
 - [745 Find Smallest Letter Greater Than Target](./745)
 - [747 Min Cost Climbing Stairs](./747)
 - [748 Largest Number At Least Twice of Others](./748)
+- [749 Shortest Completing Word](./749)
 
 *Q: What is `LZS`? It almost appears inside all files (like js, cpp)?*
 A: Briefly speaking, that is an environment variable defined in my System. For unix/linux, you can add a command `export LZS='true'` in `~/.bashrc` such that `process.env.LZS` evaluates to `true` rather than `undefined.`
