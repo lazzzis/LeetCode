@@ -167,6 +167,7 @@
 - [448 Find All Numbers Disappeared in an Array](./448)
 - [463 Island Perimeter](./463)
 - [477 Total Hamming Distance](./477)
+- [485 Max Consecutive Ones](./485)
 - [495 Teemo Attacking](./495)
 - [498 Diagonal Traverse](./498)
 - [523 Continuous Subarray Sum](./523)
