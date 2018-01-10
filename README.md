@@ -144,6 +144,7 @@
 - [297 Serialize and Deserialize Binary Tree](./297)
 - [300 Longest Increasing Subsequence](./300)
 - [301 Remove Invalid Parentheses](./301)
+- [303 Range Sum Query - Immutable](./303)
 - [304 Range Sum Query 2D - Immutable](./304)
 - [312 Burst Balloons](./312)
 - [332 Reconstruct Itinerary](./332)
