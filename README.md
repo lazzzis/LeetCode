@@ -86,6 +86,7 @@
 - [094 Binary Tree Inorder Traversal](./094)
 - [096 Unique Binary Search Trees](./096)
 - [098 Validate Binary Search Tree](./098)
+- [100 Same Tree](./100)
 - [101 Symmetric Tree](./101)
 - [102 Binary Tree Level Order Traversal](./102)
 - [112 Path Sum](./112)
