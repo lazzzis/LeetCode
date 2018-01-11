@@ -107,6 +107,7 @@
 - [152 Maximum Product Subarray](./152)
 - [153 Find Minimum in Rotated Sorted Array](./153)
 - [155 Min Stack](./155)
+- [162 Find Peak Element](./162)
 - [167 Two Sum II - Input array is sorted](./167)
 - [169 Majority Element](./169)
 - [189 Rotate Array](./189)
