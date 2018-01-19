@@ -3,24 +3,21 @@
  * @return {number[][]}
  */
 var permute = function (nums) {
-  function dfs (curPer, choices) {
-    // console.log(curPer, choices, ans)
-    if (curPer.length === nums.length) {
-      ans.push(curPer)
-      return
-    }
-    const choicesArr = Object.keys(choices)
-    for (const next of choicesArr) {
-      Reflect.deleteProperty(choices, next)
-      dfs(curPer.concat([ parseInt(next, 10) ]), choices)
-      choices[next] = 1
+  if (nums == null || nums.length < 1) return []
+  function dfs (temp) {
+    if (temp.length === nums.length) ans.push(temp.slice())
+    for (let i = 0; i < nums.length; i++) {
+      if (!vis[i]) {
+        vis[i] = true
+        temp.push(nums[i])
+        dfs(temp)
+        temp.pop()
+        vis[i] = false
+      }
     }
   }
   const ans = []
-  const choices = {}
-  nums.forEach((item) => {
-    choices[item] = 1
-  })
-  dfs([], choices)
+  const vis = Array.from(nums, () => false)
+  dfs([])
   return ans
 }
