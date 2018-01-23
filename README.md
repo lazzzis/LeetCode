@@ -168,6 +168,7 @@
 - [398 Random Pick Index](./398)
 - [414 Third Maximum Number](./414)
 - [415 Add Strings](./415)
+- [Find All Anagrams in a String](./438)
 - [442 Find All Duplicates in an Array](./442)
 - [443 String Compression](./443)
 - [448 Find All Numbers Disappeared in an Array](./448)
