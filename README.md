@@ -91,6 +91,7 @@
 - [102 Binary Tree Level Order Traversal](./102)
 - [103 Binary Tree Zigzag Level Order Traversal](./103)
 - [105 Construct Binary Tree from Preorder and Inorder Traversal](./105)
+- [111 Minimum Depth of Binary Tree](./111)
 - [112 Path Sum](./112)
 - [114 Flatten Binary Tree to Linked List](./114)
 - [119 Pascal's Triangle II](./119)
