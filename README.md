@@ -92,6 +92,7 @@
 - [103 Binary Tree Zigzag Level Order Traversal](./103)
 - [104 Maximum Depth of Binary Tree](./104)
 - [105 Construct Binary Tree from Preorder and Inorder Traversal](./105)
+- [110 Balanced Binary Tree](./110)
 - [111 Minimum Depth of Binary Tree](./111)
 - [112 Path Sum](./112)
 - [114 Flatten Binary Tree to Linked List](./114)
