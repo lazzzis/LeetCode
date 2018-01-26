@@ -220,6 +220,7 @@
 - [748 Largest Number At Least Twice of Others](./748)
 - [749 Shortest Completing Word](./749)
 - [753 Open the Lock](./753)
+- [762 Prime Number of Set Bits in Binary Representation](./762)
 
 *Q: What is `LZS`? It almost appears inside all files (like js, cpp)?*
 A: Briefly speaking, that is an environment variable defined in my System. For unix/linux, you can add a command `export LZS='true'` in `~/.bashrc` such that `process.env.LZS` evaluates to `true` rather than `undefined.`
