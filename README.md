@@ -225,6 +225,7 @@
 - [764 Largest Plus Sign](./764)
 - [766 Toeplitz Matrix](./766)
 - [767 Reorganize String](./767)
+- [769 Max Chunks To Make Sorted](./769)
 
 *Q: What is `LZS`? It almost appears inside all files (like js, cpp)?*
 A: Briefly speaking, that is an environment variable defined in my System. For unix/linux, you can add a command `export LZS='true'` in `~/.bashrc` such that `process.env.LZS` evaluates to `true` rather than `undefined.`
