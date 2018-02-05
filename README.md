@@ -158,6 +158,7 @@
 - [303 Range Sum Query - Immutable](./303)
 - [304 Range Sum Query 2D - Immutable](./304)
 - [312 Burst Balloons](./312)
+- [327 Count of Range Sum](./327)
 - [329 Longest Increasing Path in a Matrix](./329)
 - [332 Reconstruct Itinerary](./332)
 - [334 Increasing Triplet Subsequence](./334)
