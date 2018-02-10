@@ -163,6 +163,7 @@
 - [329 Longest Increasing Path in a Matrix](./329)
 - [332 Reconstruct Itinerary](./332)
 - [334 Increasing Triplet Subsequence](./334)
+- [336 Palindrome Pairs](./336/main.js)
 - [337 House Robber III](./337)
 - [341 Flatten Nested List Iterator](./341)
 - [344 Reverse String](./344)
