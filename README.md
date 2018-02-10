@@ -166,6 +166,7 @@
 - [336 Palindrome Pairs](./336/main.js)
 - [337 House Robber III](./337)
 - [341 Flatten Nested List Iterator](./341)
+- [342 Power of Four](./342/main.js)
 - [344 Reverse String](./344)
 - [347 Top K Frequent Elements](./347)
 - [349 Intersection of Two Arrays](./349)
