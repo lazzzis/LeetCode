@@ -134,6 +134,7 @@
 - [213 House Robber II](./213)
 - [217 Contains Duplicate](./217)
 - [219 Contains Duplicate II](./219)
+- [222 Count Complete Tree Nodes](./222)
 - [224 Basic Calculator](./224)
 - [227 Basic Calculator II](./227)
 - [231 Power of Two](./231)
