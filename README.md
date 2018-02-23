@@ -178,6 +178,7 @@
 - [389 Find the Difference](./389)
 - [393 UTF-8 Validation](./393)
 - [398 Random Pick Index](./398)
+- [405 Convert a Number to Hexadecimal](./405/main.js)
 - [414 Third Maximum Number](./414)
 - [415 Add Strings](./415)
 - [437 Path Sum III](./437)
