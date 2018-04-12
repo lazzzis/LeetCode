@@ -211,6 +211,7 @@
 - [654 Maximum Binary Tree](./654)
 - [658 Find K Closest Elements](./658)
 - [661 Image Smoother](./661/main.go)
+- [665 Non-decreasing Array](./665/main.go)
 - [670 Maximum Swap](./670)
 - [675 Cut Off Trees for Golf Event](./675)
 - [681 Next Closest Time](./681)
