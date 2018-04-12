@@ -150,6 +150,7 @@
 - [278 First Bad Version](./278)
 - [282 Expression Add Operators](./282)
 - [283 Move Zeroes](./283)
+- [287 Find the Duplicate Number](./287/main.go)
 - [290 Word Pattern](./290)
 - [292 Nim Game](./292)
 - [295 Find Median from Data Stream](./295)
