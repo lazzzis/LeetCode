@@ -218,6 +218,7 @@
 - [681 Next Closest Time](./681)
 - [682 Baseball Game](./682)
 - [684 Redundant Connection](./684)
+- [686 Repeated String Match](./686)
 - [689 Maximum Sum of 3 Non-Overlapping Subarrays](./689)
 - [695 Max Area of Island](./695)
 - [697 Degree of an Array](./697/main.go)
