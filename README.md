@@ -216,6 +216,7 @@
 - [684 Redundant Connection](./684)
 - [689 Maximum Sum of 3 Non-Overlapping Subarrays](./689)
 - [695 Max Area of Island](./695)
+- [697 Degree of an Array](./697/main.go)
 - [714 Best Time to Buy and Sell Stock with Transaction Fee](./714)
 - [717 1-bit and 2-bit Characters](./717)
 - [724 Find Pivot Index](./724)
