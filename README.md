@@ -246,6 +246,7 @@
 - [769 Max Chunks To Make Sorted](./769)
 - [809 Expressive Words](./809/main.js)
 - [811 Subdomain Visit Count](./811/main.go)
+- [817 Linked List Components](./817/main.js)
 
 *Q: What is `LZS`? It almost appears inside all files (like js, cpp)?*
 A: Briefly speaking, that is an environment variable defined in my System. For unix/linux, you can add a command `export LZS='true'` in `~/.bashrc` such that `process.env.LZS` evaluates to `true` rather than `undefined.`
