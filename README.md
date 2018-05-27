@@ -251,6 +251,10 @@
 - [833 Find And Replace in String](./833/main.js)
 - [834 Sum of Distances in Tree](./834/main.js)
 - [835 Image Overlap](./835/main.js)
+- [840 Magic Squares In Grid](./840/main.js)
+- [841 Keys and Rooms](./840/main.js)
+- [842 Split Array into Fibonacci Sequence](./842/main.js)
+- [843 Guess the Word](./843/main.js)
 
 *Q: What is `LZS`? It almost appears inside all files (like js, cpp)?*
 A: Briefly speaking, that is an environment variable defined in my System. For unix/linux, you can add a command `export LZS='true'` in `~/.bashrc` such that `process.env.LZS` evaluates to `true` rather than `undefined.`
